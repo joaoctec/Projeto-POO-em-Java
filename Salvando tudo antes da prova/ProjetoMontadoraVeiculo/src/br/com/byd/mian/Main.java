@@ -1,0 +1,22 @@
+package br.com.byd.mian;
+import br.com.byd.veiculo.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Carro objCarro = new Carro(2025,"Vermelho","Sela",4,5,"Eletrico");
+		objCarro.mover();
+		objCarro.abrirAirBagColuna();
+		
+		System.out.println("----------------------------------------");
+		
+		Moto objMoto = new Moto(2021,"Azul","byd Dolphin",2,1,"sim");
+		objMoto.acionarPedeApoio();
+		objCarro.mover();
+		
+
+	}
+
+}

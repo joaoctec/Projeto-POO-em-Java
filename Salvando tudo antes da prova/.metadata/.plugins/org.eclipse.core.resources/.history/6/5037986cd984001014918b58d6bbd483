@@ -1,0 +1,20 @@
+package br.com.byd.mian;
+import br.com.byd.veiculo.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Carro objCarro = new Carro(2025,"Vermelho","Sela",4,5,"Eletrico");
+		objCarro.mover();
+		objCarro.abrirAirBagColuna();
+		
+		Moto objMoto = new Moto(2022,"Vermelho","Sela",4,5,"Eletrico","mmm");
+		objMoto.mover();
+		objMOto.dargrau();
+		
+
+	}
+
+}
