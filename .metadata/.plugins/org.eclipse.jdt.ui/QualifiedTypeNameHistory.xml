@@ -4,5 +4,9 @@
     <fullyQualifiedTypeName name="br.com.matematica.classes.Soma"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="br.com.rh.classes.Funcionario"/>
+    <fullyQualifiedTypeName name="br.com.julio.interfaces.Manutenivel"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="br.com.julio.transporte.Transporte"/>
+    <fullyQualifiedTypeName name="br.com.julio.transporte.onibus"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
